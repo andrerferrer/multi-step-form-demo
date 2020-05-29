@@ -1,6 +1,5 @@
 Rails.application.routes.draw do
-  get 'restaurants/index'
-  get 'restaurants/show'
-  root to: 'pages#home'
+  root to: 'restaurants#index'
+  resources :restaurants, only: %i[index show]
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
