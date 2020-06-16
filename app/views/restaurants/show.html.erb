@@ -1,3 +1,5 @@
+<%= link_to "Home", root_path %>
+
 <h1><%= @restaurant.name %> <small><%= @restaurant.address %></small></h1>
 <h2>
   <%= pluralize @restaurant.reviews.size, "review" %>
