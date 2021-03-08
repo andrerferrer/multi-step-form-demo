@@ -16,8 +16,8 @@ Remember to `bundle install`
 
 ### If you want to check it locally
 ```sh
-repo_name = "restaurants-boilerplate"
-gh_repository='git@github.com:andrerferrer/$repo_name.git'
+repo_name="restaurants-boilerplate"
+gh_repository="git@github.com:andrerferrer/$repo_name.git"
 git clone $gh_repository demo
 cd demo
 bundle install
