@@ -2,6 +2,8 @@
 
 This is a demo to show-case how to implement a very simple multi-step form (Wizard) with `Javascript`, `Stimulus` and `Bootstrap`'s css.
 
+Credits go to [Nicolás Proto](https://github.com/nicoproto).
+
 [You can also check my other demos](https://github.com/andrerferrer/dedemos/blob/master/README.md#ded%C3%A9mos).
 
 ## What needs to be done?
