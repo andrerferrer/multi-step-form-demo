@@ -1,5 +1,3 @@
-# IN PROGRESS!
-
 # GOAL
 
 This is a demo to show-case how to implement a very simple multi-step form (Wizard) with `Javascript`, `Stimulus` and `Bootstrap`'s css.
